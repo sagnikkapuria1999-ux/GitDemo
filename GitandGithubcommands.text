@@ -1,3 +1,13 @@
 git config --global user.name "sagnikkapuria1999-ux"
 git config --global user.email "sagnikkapuria1999@gmail.com"
 git config --global colour.ui auto
+
+>> madnatory commands
+git init
+git remote add origin https://github.com/sagnikkapuria1999-ux/GitDemo.git
+git pull origin main
+
+git add .
+git status
+git commit -m "commit message"
+git push
